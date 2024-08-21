@@ -1,6 +1,4 @@
-﻿from shutil import move
-
-
+﻿
 image bg_outdoor:
     "images/bg_outdoor.png"
     size (1920, 1080)
